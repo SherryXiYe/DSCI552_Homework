@@ -1,0 +1,13 @@
+# Requirements for Xie_Zihan_HW4.ipynb
+# Tested with Python 3.10 - 3.12. Version ranges are used so that pip picks
+# the newest release that supports the installed Python version.
+numpy>=1.23,<2.3
+pandas>=1.5,<2.4
+matplotlib>=3.6,<3.11
+seaborn>=0.12,<0.14
+statsmodels>=0.14,<0.15
+scikit-learn>=1.2,<1.8
+
+# To open and run the notebook
+notebook>=6.5,<8
+ipykernel>=6.20
